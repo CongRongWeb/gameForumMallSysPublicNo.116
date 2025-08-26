@@ -1,5 +1,3 @@
-
-## 基于Java+Springboot+vue的游戏论坛商城管理系统(源代码+数据库+11000字论文)149
 <p><h1 align="center">基于Java+Springboot+vue的游戏论坛商城管理系</h1></p>
 
 - <b>完整代码获取地址：从戎源码网 ([https://armycodes.com/](https://armycodes.com/))</b>
